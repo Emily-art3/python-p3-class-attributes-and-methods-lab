@@ -44,3 +44,4 @@ class Song:
             cls.artist_count[artist] += 1
         else:
             cls.artist_count[artist] = 1
+
